@@ -1,0 +1,9 @@
+dest,user,"parent_process_name","process_name","original_file_name",process,"process_id","parent_process_id",count,firstTime,lastTime
+"ar-win-2.attackrange.local",Administrator,"powershell.exe","ngrok.exe","-","""C:\Users\Public\ngrok\ngrok.exe"" config add-authtoken N/A",5484,6720,1,"2023-09-30T10:48:56","2023-09-30T10:48:56"
+"ar-win-2.attackrange.local",Administrator,"powershell.exe","ngrok.exe","-","""C:\Users\Public\ngrok\ngrok.exe"" tcp 3389",6516,3460,1,"2023-09-30T10:49:00","2023-09-30T10:49:00"
+"ar-win-2.attackrange.local",Administrator,"powershell.exe","ngrok.exe",unknown,"""C:\Users\Public\ngrok\ngrok.exe"" config add-authtoken N/A",0x156c,0x1a40,1,"2023-09-30T10:48:56","2023-09-30T10:48:56"
+"ar-win-2.attackrange.local",Administrator,"powershell.exe","ngrok.exe",unknown,"""C:\Users\Public\ngrok\ngrok.exe"" tcp 3389",0x1974,0xd84,1,"2023-09-30T10:49:00","2023-09-30T10:49:00"
+"ar-win-dc.attackrange.local",Administrator,"powershell.exe","ngrok.exe","-","""C:\Users\Public\ngrok\ngrok.exe"" config add-authtoken N/A",4708,5892,1,"2023-09-30T10:56:34","2023-09-30T10:56:34"
+"ar-win-dc.attackrange.local",Administrator,"powershell.exe","ngrok.exe","-","""C:\Users\Public\ngrok\ngrok.exe"" tcp 3389",5376,5808,1,"2023-09-30T10:56:38","2023-09-30T10:56:38"
+"ar-win-dc.attackrange.local",Administrator,"powershell.exe","ngrok.exe",unknown,"""C:\Users\Public\ngrok\ngrok.exe"" config add-authtoken N/A",0x1264,0x1704,1,"2023-09-30T10:56:34","2023-09-30T10:56:34"
+"ar-win-dc.attackrange.local",Administrator,"powershell.exe","ngrok.exe",unknown,"""C:\Users\Public\ngrok\ngrok.exe"" tcp 3389",0x1500,0x16b0,1,"2023-09-30T10:56:38","2023-09-30T10:56:38"

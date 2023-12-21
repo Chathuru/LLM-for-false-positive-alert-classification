@@ -1,0 +1,5 @@
+dest,user,"parent_process_name","process_name",process,"process_id","parent_process_id",count,firstTime,lastTime
+"ar-win-2.attackrange.local",Administrator,"cmd.exe","sc.exe","C:\Windows\System32\sc.exe create sesshijack binpath= ""cmd.exe /k tscon 1337 /dest:rdp-tcp#55""",0x1aa0,0x14e8,1,"2023-09-30T10:30:45","2023-09-30T10:30:45"
+"ar-win-2.attackrange.local",Administrator,"cmd.exe","sc.exe","sc.exe  create sesshijack binpath= ""cmd.exe /k tscon 1337 /dest:rdp-tcp#55""",6816,5352,1,"2023-09-30T10:30:45","2023-09-30T10:30:45"
+"ar-win-dc.attackrange.local",Administrator,"cmd.exe","sc.exe","C:\Windows\System32\sc.exe create sesshijack binpath= ""cmd.exe /k tscon 1337 /dest:rdp-tcp#55""",0x1530,0x1330,1,"2023-09-30T10:30:08","2023-09-30T10:30:08"
+"ar-win-dc.attackrange.local",Administrator,"cmd.exe","sc.exe","sc.exe  create sesshijack binpath= ""cmd.exe /k tscon 1337 /dest:rdp-tcp#55""",5424,4912,1,"2023-09-30T10:30:08","2023-09-30T10:30:08"
